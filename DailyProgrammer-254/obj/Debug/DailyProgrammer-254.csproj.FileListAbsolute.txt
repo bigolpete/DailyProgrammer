@@ -1,0 +1,6 @@
+g:\documents\visual studio 2015\Projects\DailyProgrammer-254\DailyProgrammer-254\bin\Debug\DailyProgrammer-254.exe.config
+g:\documents\visual studio 2015\Projects\DailyProgrammer-254\DailyProgrammer-254\bin\Debug\DailyProgrammer-254.exe
+g:\documents\visual studio 2015\Projects\DailyProgrammer-254\DailyProgrammer-254\bin\Debug\DailyProgrammer-254.pdb
+g:\documents\visual studio 2015\Projects\DailyProgrammer-254\DailyProgrammer-254\obj\Debug\DailyProgrammer-254.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2015\Projects\DailyProgrammer-254\DailyProgrammer-254\obj\Debug\DailyProgrammer-254.exe
+g:\documents\visual studio 2015\Projects\DailyProgrammer-254\DailyProgrammer-254\obj\Debug\DailyProgrammer-254.pdb
